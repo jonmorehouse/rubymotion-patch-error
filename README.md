@@ -1,4 +1,5 @@
-# RubyMotion Bug With :headers_dir symlink patch forked from :head
+# RubyMotion Bug With 
+> :headers_dir symlink patch forked from :head
 
 ## Steps
 ~~~ bash
@@ -61,6 +62,5 @@ Command failed with status (127): [RUBYOPT='' '/Library/RubyMotion/bin/gen_br...
 /usr/local/bin/rake:23:in `load'
 /usr/local/bin/rake:23:in `<main>'
 Tasks: TOP => build => build:simulator
-m
 
 ~~~
